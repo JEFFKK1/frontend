@@ -4,10 +4,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p className='App-intro'>
-            hello you all!
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
         </p>
-        </header>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          forever Bye There!
+        </a>
+      </header>
+
     </div>
   );
 }
